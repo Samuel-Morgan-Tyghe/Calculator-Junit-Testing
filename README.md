@@ -24,4 +24,5 @@ error : ( The method assertEquals(double, double) from the type Assert is deprec
 can potentially be resolved be replacing 
 "org.junit.Assert.assertEquals;" to
 "org.junit.Assertion.assertEquals;"
+
 > not all .assertEquals are equal.  :nerd_face:
