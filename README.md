@@ -4,15 +4,15 @@ I take a look at Unit Testing a calculator.
 
 
 ## What i learnt
-* Junit can be used to test parts of code,
+* Junit can be used to test parts of code.
 
-I'ts a Robust and cleaner version of System.out.Println(what happened now to that variable?).
+It's a Robust and cleaner version of System.out.Println(what happened now to that variable?).
 
-* Multiple tests should be avoided 
+* Multiple tests should be avoided. 
 
-* Eclipse results show either pass/fail/error , to conclude implimenting mulitple tests would mean you don't know which one failed.
+* Eclipse results show either pass/fail/error. In conclusion, implimenting mulitple tests would mean you don't know which one would pass/fail/error.
 
-* This is good practice for large projects where methodology can be forgotten .
+* This is good practice for large projects where methodology can be forgotten.
 
 
 * Define **type** ___________________test.constructor (Passing **type**).
