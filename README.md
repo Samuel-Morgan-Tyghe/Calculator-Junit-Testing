@@ -29,7 +29,7 @@ The test requires the Output converted .toString to compare the two variables ar
 
 This does cause an Error.
 
- error : ( The method assertEquals(double, double) from the type Assert is deprecated)
+ "Error : ( The method assertEquals(double, double) from the type Assert is deprecated)"
 
 Which can potentially be resolved be replacing 
 
