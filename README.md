@@ -1,6 +1,6 @@
 # Calculator-Junit-Testing
 I take a look at Unit Testing a calculator.
-[With String to Equation Solver Code made by Maksim Dmitriev](https://codereview.stackexchange.com/users/23821/maksim-dmitriev)
+[With String to Equation Solver Code made by Maksim Dmitriev](https://codereview.stackexchange.com/users/23821/maksim-dmitriev).
 
 
 ## What i learnt
