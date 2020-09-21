@@ -3,31 +3,31 @@ I take a look at Unit Testing a calculator.
 [With String to Equation Solver Code made by Maksim Dmitriev](https://codereview.stackexchange.com/users/23821/maksim-dmitriev).
 
 
-## What i learnt
+## What I learnt
 * Junit can be used to test parts of code.
 
 It's a Robust and cleaner version of System.out.Println(what happened now to that variable?).
 
 * Multiple tests should be avoided. 
 
-* Eclipse results show either pass/fail/error. In conclusion, implimenting mulitple tests would mean you don't know which one would pass/fail/error.
+* Eclipse results show either pass/fail/error. In conclusion, implementing multiple tests would mean you don't know which one would pass/fail/error.
 
-* This is good practice for large projects where methodology can be forgotten.
+* This is good practice for large projects where the method can be forgotten.
 
 
 * Define **type** ___________________test.constructor (Passing **type**).
 
-* The constructor output type can be different type to the input.
+* The constructor output type can be a different type to the input.
  In this example, the calculator required a String input, with a Double Output.
 
 
-## Update/To ammend :
+## Update/To amend :
 
 The test requires the Output converted .toString to compare the two variables are equal.*
 
 - [ ] Remove this step and just use Output as a Double type.*
 
-This does cause an Error.
+This causes an Error.
 
  "Error : ( The method assertEquals(double, double) from the type Assert is deprecated)"
 
